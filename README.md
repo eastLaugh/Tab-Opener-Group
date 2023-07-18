@@ -7,3 +7,5 @@
 
 注意:你不需配置，也无法配置。开箱即用效果：
 ![image](https://github.com/eastLaugh/Tab-Opener-Group/assets/39405923/60af4451-ac3a-4f20-87b3-5a7f1bd6530f)
+
+使用方法：访问chrome://extensions/ 并选择 “加载已解压的扩展程序”
