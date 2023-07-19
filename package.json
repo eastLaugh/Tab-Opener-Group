@@ -5,7 +5,9 @@
   "name": "tabtabler",
   "version": "1.0.0",
   "main": "background.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
